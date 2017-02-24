@@ -1,1 +1,0 @@
-# Tensorflow-on-Azure-NC-Series-with-CentOS-on-Azure-NC-Series
